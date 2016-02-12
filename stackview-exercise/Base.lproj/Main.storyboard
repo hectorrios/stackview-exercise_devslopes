@@ -17,13 +17,6 @@
                         <rect key="frame" x="0.0" y="0.0" width="600" height="600"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
-                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="3xo-el-xQL">
-                                <rect key="frame" x="20" y="45" width="560" height="149"/>
-                                <string key="text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla ligula nunc, malesuada at vulputate eget, rhoncus vitae nisl. Sed aliquet fringilla velit. Quisque convallis risus at ex pharetra, nec commodo dolor bibendum. Mauris sollicitudin eget mauris ac tempor. Nam ac leo quis elit aliquam ullamcorper. Nam posuere tellus et dolor suscipit pretium. Mauris interdum faucibus iaculis. Suspendisse consequat turpis ac ultricies pharetra. In eget suscipit felis, et sagittis velit.</string>
-                                <fontDescription key="fontDescription" type="system" pointSize="17"/>
-                                <color key="textColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
-                                <nil key="highlightedColor"/>
-                            </label>
                             <imageView userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="circle" translatesAutoresizingMaskIntoConstraints="NO" id="roP-yh-ksF">
                                 <rect key="frame" x="194" y="218" width="213" height="148"/>
                             </imageView>
@@ -51,6 +44,13 @@
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Mail" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="JPY-jn-ae7">
                                 <rect key="frame" x="481" y="527" width="68" height="21"/>
                                 <fontDescription key="fontDescription" name="HelveticaNeue" family="Helvetica Neue" pointSize="20"/>
+                                <color key="textColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="3xo-el-xQL">
+                                <rect key="frame" x="24" y="44" width="560" height="149"/>
+                                <string key="text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla ligula nunc, malesuada at vulputate eget, rhoncus vitae nisl. Sed aliquet fringilla velit. Quisque convallis risus at ex pharetra, nec commodo dolor bibendum. Mauris sollicitudin eget mauris ac tempor. Nam ac leo quis elit aliquam ullamcorper. Nam posuere tellus et dolor suscipit pretium. Mauris interdum faucibus iaculis.</string>
+                                <fontDescription key="fontDescription" type="system" pointSize="17"/>
                                 <color key="textColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
                                 <nil key="highlightedColor"/>
                             </label>
